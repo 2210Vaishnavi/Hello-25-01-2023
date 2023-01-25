@@ -1,0 +1,5 @@
+
+          add                   commit               push
+Workspace --> index/staging area --> Local Repository --> Remote Repository
+
+|---------------------Git----------------------------|    |------Github-----|
